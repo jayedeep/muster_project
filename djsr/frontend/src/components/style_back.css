@@ -1,0 +1,27 @@
+.backgradient {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 0%,
+    rgba(0, 212, 255, 1) 69%
+  );
+}
+.logo{
+  font-family: 'Audiowide', cursive;
+  color: black;
+}
+.logo-first{
+  font-size: 50px;
+}
+.logo-name{
+  white-space:nowrap;
+}
+.img-logo{
+  display: inline-block;
+}
+
+.text-logo{
+  display: inline-block;
+  /* white-space:nowrap */
+}
